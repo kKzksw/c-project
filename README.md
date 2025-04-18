@@ -2,7 +2,7 @@
 
 ---
 
-# **EM Lyon Student & Professor Management System**
+# **EMLyon Student & Professor Management System**
 
 ## **Project Overview**
 
