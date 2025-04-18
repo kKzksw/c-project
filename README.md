@@ -1,5 +1,4 @@
 # c-project
-Here's the English translation of the content you provided:
 
 ---
 
@@ -57,10 +56,9 @@ When the program starts, the user will see the following menu options:
 
 ---
 
-## **Author and License**
+## **Author**
 
-- **Author**: EM Lyon Student
+- **Author**: Leyan Cheng, Yuxin Gong, Jiani Xu
 
 ---
 
-Let me know if you need further assistance!
